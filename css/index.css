@@ -1,0 +1,45 @@
+body {
+ background-image: url(../image/bannerimage.jpg);
+    background-repeat: no repeat;
+    background-attachment: fixed;
+    background-size :cover;
+    bottom: auto;
+}
+
+.form{
+    background-color: rgba(207, 188, 188, 0.486);
+    float: left;
+    width: 250px; 
+    border-radius: 20px;
+    color: rgb(7, 6, 6); 
+    padding: 5px;
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
+} 
+    
+  
+  lable{
+      float: left;
+  }
+  h3{
+    color: rgb(0, 0, 0);
+  
+  }
+  button{
+    color: rgb(253, 253, 253);
+    background-color: rgba(0, 0, 0, 0.281);
+  
+  }
+  
+
+
+  
+  .val{
+    color: rgb(219, 3, 3, 47);
+    margin: 2px;
+    padding: auto;
+    font-size: small;
+  }
+  
+  
